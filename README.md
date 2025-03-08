@@ -1,4 +1,4 @@
-![Code GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQyYm16bXExb2Nod2xrZjlnZWJpZjVtNHFvNXlvZmJqNDF5NHZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhmFodQlsVySTXe5Y4/giphy.gif)
+![Your GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQyYm16bXExb2Nod2xrZjlnZWJpZjVtNHFvNXlvZmJqNDF5NHZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhmFodQlsVySTXe5Y4/giphy.gif)
 
 # Hi, I'm Joel John 👨‍💻
 
