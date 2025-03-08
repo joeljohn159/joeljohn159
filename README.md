@@ -1,4 +1,4 @@
-![Tech GIF](https://media.giphy.com/media/1BdJ62FfQ2I89muflF/giphy.gif)
+![Tech GIF]([https://media.giphy.com/media/1BdJ62FfQ2I89muflF/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE4anRybjNmZWE4bTJ4cGMzZHhjeTE5YjZsa2s0enZ1c3d6MHY1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FPEOORMeF7oVbMs/giphy.gif))
 
 # Hi, I'm Joel John 👨‍💻
 
