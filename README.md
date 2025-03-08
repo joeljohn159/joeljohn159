@@ -1,10 +1,9 @@
-
+![Tech GIF](https://media.giphy.com/media/1BdJ62FfQ2I89muflF/giphy.gif)
 
 # Hi, I'm Joel John 👨‍💻
 
 I’m a **Software Engineer** and **MS Computer Science** student at **University of North Texas**. Passionate about building scalable systems and optimizing performance.
 
-![Your GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDQyYm16bXExb2Nod2xrZjlnZWJpZjVtNHFvNXlvZmJqNDF5NHZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vhmFodQlsVySTXe5Y4/giphy.gif)
 
 ### 🚀 About Me
 - 🔭 Currently working with **Node.js**, **React**, and **AWS**.
