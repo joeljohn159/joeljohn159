@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmRmc2d3NDM4NTJzemFvOHF4a211Z3RrdXQ5YnNtOWl5emJzdmN1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt3NND1TdnIAfSM/giphy.gif" width="600"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV6empvaW11M2tuYTJja3RtbXh6ajJ5ZnJubnhsejhoM2cwYWEzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif" width="600"/>
 </div>
 
 # Hi, I'm Joel John 👨‍💻
