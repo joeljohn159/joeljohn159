@@ -19,6 +19,3 @@ I’m a **Software Engineer** and **MS Computer Science** student at **Universit
 
 ---
 
-### ✨ Fun Fact:  
-Automated processes at **DXC Technology** reducing deployment time by 40%.
-
