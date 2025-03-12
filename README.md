@@ -15,7 +15,7 @@ I’m a **Software Engineer** and **MS Computer Science** student at **Universit
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeljohn159&show_icons=true&hide_title=true&hide=prs&count_private=true)
 
-### 📫 Reach me: [LinkedIn](https://linkedin.com/in/joeljohn) | [Email](mailto:joeljohn7619@gmail.com)
+### 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/joel-john-9b9348200/) | [Email](mailto:joeljohn7619@gmail.com)
 
 ---
 
