@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV6empvaW11M2tuYTJja3RtbXh6ajJ5ZnJubnhsejhoM2cwYWEzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fbHqxBmYngB1U9GTt9/giphy.gif" width="300"/>
+  <img src="https://github.com/user-attachments/assets/a55805c0-7ef2-4b90-bb31-a61d0ed9f882" width="300"/>
 </div>
+![1d11s820dgm91](https://github.com/user-attachments/assets/a55805c0-7ef2-4b90-bb31-a61d0ed9f882)
 
 # Hi, I'm Joel John 👨‍💻
 
