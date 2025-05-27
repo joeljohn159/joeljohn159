@@ -39,7 +39,7 @@
 
 ---
 
-### 🛠️ Projects
+### 🛠️ Featured Projects
 
 - 🧾 **UNT Café Mobile App**  
   React Native + Node.js + Stripe + MongoDB  
