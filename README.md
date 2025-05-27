@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a55805c0-7ef2-4b90-bb31-a61d0ed9f882" width="200"/>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/a55805c0-7ef2-4b90-bb31-a61d0ed9f882" width="300"/>
 </div>
 # Hi, I'm Joel John 👨‍💻
 
