@@ -8,7 +8,7 @@ I’m a **Software Engineer** and **MS Computer Science** student at **Universit
 
 
 ### 🚀 About Me
-- 🔭 Currently working with **Node.js**, **React**, and **AWS**.
+- 🔭 Currently working with **React Native**, **Node.js**, **React**, and **AWS**.
 - 🌱 Learning **NextJS**, **Docker**, and **CI/CD**.
 - 💬 Ask me about **frontend + backend development**, **cloud technologies**, and **DevOps**.
 
