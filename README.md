@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/a55805c0-7ef2-4b90-bb31-a61d0ed9f882" width="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Joel John</h1>
+<h1 align="center">Hi 👋, I'm Joel</h1>
 <h3 align="center">Software Engineer | MS CS @ University of North Texas</h3>
 
 🎯 Passionate about building **scalable systems**, solving complex problems, and delivering **efficient backend & frontend solutions** with modern tech stacks.
