@@ -181,8 +181,6 @@ Bachelor of Technology in Electronics and Communication | **GPA: 3.74/4.0**
 
 I'm always interested in discussing new opportunities, collaborating on interesting projects, or just talking about technology. Feel free to reach out!
 
-📧 **Email:** joeljohn7619@gmail.com  
-📱 **Phone:** (469) 750-8133  
 💼 **LinkedIn:** [joel-john-9b9348200](https://www.linkedin.com/in/joel-john-9b9348200/)  
 🐙 **GitHub:** [joeljohn159](https://github.com/joeljohn159)
 
