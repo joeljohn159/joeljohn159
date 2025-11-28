@@ -60,7 +60,7 @@ AI-powered resume optimization platform
 - Handles **500+ optimizations/month**
 - Built for internet-scale traffic
 
-**Stack:** React, Node.js, Cloudflare, OpenAI
+**Stack:** Next.js, Cloudflare, GeminiAI, Digital Ocean, Stripe
 
 </td>
 <td width="50%">
