@@ -12,8 +12,6 @@ Building scalable systems, optimizing performance, solving complex problems
 
 </div>
 
----
-
 ## Work Experience
 
 <table>
