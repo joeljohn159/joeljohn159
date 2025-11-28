@@ -1,189 +1,186 @@
+<div align="center">
+
 # Joel John
 
 **Software Engineer | MS CS @ University of North Texas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-john-9b9348200/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeljohn7619@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joeljohn159)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/joeljohn159)
+
+Building scalable systems, optimizing performance, solving complex problems
+
+</div>
 
 ---
 
-## About Me
+## Work Experience
 
-I'm a Software Engineer passionate about building scalable, high-performance systems that solve real-world problems. Currently pursuing my MS in Computer Science at UNT while working as a Software Engineering Intern at Nest Friends, where I architect full-stack solutions serving hundreds of daily users.
+<table>
+<tr>
+<td width="50%">
 
-With professional experience at DXC Technology and hands-on expertise in cloud infrastructure, distributed systems, and modern web/mobile development, I focus on delivering efficient, production-ready solutions.
+**Nest Friends** — Software Engineering Intern  
+*Aug 2025 - Present*
 
-**Current Location:** Denton, TX | **Open to Relocation**
+Architecting full-stack solutions serving 200+ daily users
 
----
+- **25%** increase in user retention
+- **40%** faster deployment pipeline
+- **200-250ms** API response optimization
+- Reduced crash rate by **20%**
 
-## Professional Experience
+</td>
+<td width="50%">
 
-### Software Engineering Intern @ Nest Friends
-*August 2025 - Present | Remote*
+**DXC Technology** — Software Engineer  
+*Jan 2023 - Jul 2024*
 
-- Architected full-stack authentication and messaging system serving **200+ daily users**, increasing retention by **25%**
-- Optimized AWS deployment pipelines and MongoDB schemas, reducing deployment time by **40%**
-- Improved API response times by **200-250ms** through database optimization and indexing
-- Enhanced app stability, reducing crash rate by **20%** through React Native performance tuning
+Built enterprise dashboards and cloud infrastructure
 
-### Software Engineer @ DXC Technology
-*January 2023 - July 2024 | Hyderabad, India*
+- Dashboard adopted by **4 global teams**
+- **40+** real-time monitoring dashboards
+- **$6,000** annual cost reduction
+- **60%** faster incident detection
 
-- Built React-based workflow dashboard adopted by **4 global teams**, improving collaboration efficiency by **30%**
-- Developed **40+ real-time monitoring dashboards** with Splunk and Datadog, reducing outage detection time by **60%**
-- Led AWS cloud migration of financial modules, cutting infrastructure costs by **$6,000 annually**
-- Engineered RESTful APIs integrating multiple systems, reducing latency by **25%**
+</td>
+</tr>
+</table>
 
----
+## Projects
 
-## Featured Projects
+<table>
+<tr>
+<td width="50%">
 
-### [makemyzume.com](https://makemyzume.com) - AI Resume Optimization Platform
-**Co-Founder & Full-Stack Engineer** | *September 2025 - Present*
+### makemyzume.com
+*Co-Founder & Full-Stack Engineer*
 
-AI-powered platform that reduces resume customization time from 20-30 minutes to under 5 minutes, improving ATS match rates for job seekers.
+AI-powered resume optimization platform
 
-- Handles **500+ optimizations/month** with edge-optimized caching
-- Built for Internet-scale traffic with serverless architecture
-- **Tech Stack:** React, Node.js, Cloudflare, OpenAI API
+- Reduces customization time from 30 min to <5 min
+- Handles **500+ optimizations/month**
+- Built for internet-scale traffic
 
-### UNT Cafeteria Mobile Application
-**Full-Stack Developer** | *May 2025 - July 2025*
+**Stack:** React, Node.js, Cloudflare, OpenAI
 
-Distributed food ordering system enabling real-time order management for campus cafeteria.
+</td>
+<td width="50%">
 
-- Handles **500+ concurrent users** with WebSocket and Node.js APIs
-- Integrated Stripe payment gateway with **95% transaction success rate**
-- **20% faster** order processing under heavy loads
-- **Tech Stack:** React Native, Node.js, MongoDB, Stripe, WebSocket
+### UNT Cafeteria App
+*Full-Stack Developer*
 
-### FinGPT - AI Financial Assistant
-**Full-Stack Developer**
+Real-time food ordering system for campus
 
-AI-powered financial assistant providing real-time market insights and portfolio analysis.
+- Handles **500+ concurrent users**
+- **95%** transaction success rate
+- Integrated Stripe payment processing
 
-- Integrates OpenAI GPT models with financial data APIs
-- Real-time data processing with Pandas and NumPy
-- **Tech Stack:** React, Node.js, OpenAI API, Pandas, Financial APIs
+**Stack:** React Native, Node.js, MongoDB, WebSocket
 
-### eazyShop Platform
-**Full-Stack Developer**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-Full-featured eCommerce platform with secure authentication and payment processing.
+### FinGPT
+*Full-Stack Developer*
 
-- JWT authentication with Redux Toolkit state management
-- PayPal API integration for secure transactions
-- **Tech Stack:** React, Node.js, Express, MongoDB, Redux Toolkit, PayPal API
+AI financial assistant with real-time insights
 
----
+- OpenAI GPT integration
+- Real-time market data processing
 
-## Technical Skills
+**Stack:** React, Node.js, OpenAI API, Pandas
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+</td>
+<td width="50%">
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+### eazyShop
+*Full-Stack Developer*
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat&logo=socket.io&logoColor=white)
+Full-featured eCommerce platform
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+- JWT authentication
+- PayPal payment integration
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+**Stack:** React, Node.js, Redux Toolkit, MongoDB
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+</td>
+</tr>
+</table>
 
-### Concepts & Methodologies
-System Design • Distributed Systems • Microservices • High-Availability Systems • Algorithms & Data Structures • Agile/Scrum • DevOps • CI/CD • Machine Learning • NLP • Generative AI/LLMs
+## Tech Stack
 
----
+<div align="center">
 
-## Certifications & Achievements
+**Languages**
 
-🏆 **AWS Certified Cloud Practitioner**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
-🥉 **3rd Place** - GradInnoHack Hackathon, University of North Texas (2025)
-- Led team to develop an airport navigation system for non-English speakers
-- Delivered full-stack multilingual guidance prototype in 24 hours
+**Frontend**
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+**Monitoring & Analytics**
+
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
+</div>
+
+## Highlights
+
+**AWS Certified Cloud Practitioner** (2024)
+
+**3rd Place** — GradInnoHack Hackathon, UNT (2025)
+- Led team to build airport navigation system for non-English speakers
+- Delivered multilingual guidance prototype in 24 hours
+
+**Teaching Assistant** — Computer Networks (CS-3530), UNT (2025 - Present)
+- Mentoring 80+ students in network protocols and system design
+- Improved lab scores by 20%
 
 ## Education
 
-**University of North Texas** | *Denton, TX*  
-Master of Science in Computer Science | **GPA: 4.0/4.0**  
-*August 2024 - May 2026*
+**University of North Texas** — MS Computer Science | GPA: 4.0/4.0  
+*Aug 2024 - May 2026*
 
-**Reva University** | *Bangalore, India*  
-Bachelor of Technology in Electronics and Communication | **GPA: 3.74/4.0**  
-*August 2018 - June 2022*
+**Reva University** — BTech Electronics & Communication | GPA: 3.74/4.0  
+*Aug 2018 - Jun 2022*
 
 ---
 
-## Leadership & Teaching
+<div align="center">
 
-### Teaching Assistant - Computer Networks (CS-3530)
-**University of North Texas** | *January 2025 - Present*
+**Open to relocation** | Available for full-time opportunities
+[LinkedIn](https://www.linkedin.com/in/joel-john-9b9348200/)
 
-- Mentoring **80+ students** in network protocols, system design, and cloud computing
-- Improved lab scores by **20%** through simplified explanations and hands-on guidance
-- Fostering collaborative problem-solving and practical application of networking concepts
-
----
-
-## Currently Learning
-
-- Next.js for server-side rendering and static site generation
-- Advanced Docker and Kubernetes orchestration
-- Distributed systems architecture patterns
-- Cloud-native application development
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeljohn159&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljohn159&layout=compact&theme=radical)
-
----
-
-## Let's Connect
-
-I'm always interested in discussing new opportunities, collaborating on interesting projects, or just talking about technology. Feel free to reach out!
-
-💼 **LinkedIn:** [joel-john-9b9348200](https://www.linkedin.com/in/joel-john-9b9348200/)  
-🐙 **GitHub:** [joeljohn159](https://github.com/joeljohn159)
-
----
-
-*"Strive not to be a success, but rather to be of value." – Albert Einstein*
+</div>
