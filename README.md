@@ -70,7 +70,7 @@ AI-powered resume optimization platform
 
 Real-time food ordering system for campus
 
-- Handles **500+ concurrent users**
+- Handles **2000+ concurrent users**
 - **95%** transaction success rate
 - Integrated Stripe payment processing
 
