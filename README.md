@@ -167,8 +167,6 @@ Full-featured e-commerce platform with complete purchase workflow.
 
 ![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joeljohn159&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljohn159&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
 </div>
 
 ## Beyond Code
@@ -185,7 +183,7 @@ Mentoring 80+ students in network protocols and system design. Improved lab scor
 
 ```yaml
 status: "Open to full-time opportunities"
-location: "Sunnyvale, Texas (Open to relocation)"
+location: "Dallas, Texas (Open to relocation)"
 looking_for:
   - Full-Stack Engineer roles
   - AI/ML Engineer positions
