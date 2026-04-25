@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Joel John
 
@@ -196,5 +196,256 @@ interests:
 [![Email](https://img.shields.io/badge/-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeljohn7619@gmail.com)
 
 **"Write clean code. Ship fast. Optimize relentlessly."**
+
+</div> -->
+
+
+
+
+
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0a2e,100:2d1b4e&height=220&section=header&text=Joel%20John&fontSize=60&fontColor=c4b5fd&fontAlignY=35&desc=Software%20Engineer%20%7C%20GenAI%20%26%20RAG%20Systems%20%7C%20Cloud%20Architecture&descSize=16&descColor=a78bfa&descAlignY=55&animation=fadeIn" width="100%" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-Joel_John-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeljohn007/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=c4b5fd)](https://joeljohn159.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/-joeljohn7619@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=c4b5fd)](mailto:joeljohn7619@gmail.com)
+[![makemyzume](https://img.shields.io/badge/-makemyzume.com-1a1a2e?style=flat-square&logo=googlechrome&logoColor=c4b5fd)](https://www.makemyzume.com/)
+
+</div>
+
+---
+
+### ⚰️ Who Am I
+
+Product-focused **Software Engineer** with 2+ years of experience architecting scalable full-stack applications and cloud infrastructure. I specialize in **React, TypeScript, and Node.js**, with deep focus on **Generative AI — LLMs, RAG pipelines, and Vector Databases**. Currently pursuing my **MS in Computer Science at the University of North Texas** (GPA: 3.67).
+
+I build systems that are fast, reliable, and solve real problems.
+
+```typescript
+const joel = {
+    title: "Software Engineer",
+    education: "MS Computer Science @ UNT | GPA 3.67",
+    focus: ["Full-Stack Development", "GenAI & RAG Systems", "Cloud Architecture"],
+    building: "makemyzume.com — AI resume optimizer serving 500+ users/month",
+    contributing: ["LangChain (core framework)", "YouVersion (SDK testing)"],
+    recentImpact: {
+        apiLatency: "-250ms response time",
+        deploymentSpeed: "+40% faster CI/CD",
+        userRetention: "+25%",
+        uptimeTarget: "99.9%"
+    }
+};
+```
+
+---
+
+### 🦇 Work Experience
+
+<details>
+<summary><b>Nest Friends</b> — Software Engineer &nbsp;|&nbsp; Aug 2025 – Nov 2025</summary>
+<br/>
+
+> Wilmington, DE — Serving 200+ daily active users
+
+- Architected a secure messaging and auth service using **TypeScript** and **AWS Lambda**, handling high-concurrency requests while meeting strict data compliance standards
+- Reduced API response latency by **250ms** through query refactoring and database indexing on **DynamoDB/SQL**
+- Cut deployment lead time by **40%** by building automated CI/CD pipelines with **GitHub Actions**
+- Drove a **25% increase in user retention** by partnering with Product to implement security-by-design features
+
+</details>
+
+<details>
+<summary><b>DXC Technology</b> — Software Engineer &nbsp;|&nbsp; Jan 2023 – Jul 2024</summary>
+<br/>
+
+> Hyderabad, India — Enterprise-scale financial systems
+
+- Led migration of distributed financial modules from on-premise to cloud, ensuring SOC2/FinTech compliance
+- Designed **RESTful APIs** serving global teams, reducing service latency by **25%** and improving React frontend rendering speed
+- Built **40+ real-time monitoring dashboards** with **Splunk** and **Datadog**, cutting outage detection time by **60%** and maintaining **99.9% uptime**
+- Developed internal **React-based automation tools** that improved team efficiency by **30%**
+- Optimized SQL queries for high-volume Surety & Claims financial transaction processing
+
+</details>
+
+---
+
+### 🕸️ Open Source Contributions
+
+**[LangChain](https://github.com/langchain-ai/langchain)** — Core Framework Contributor &nbsp;|&nbsp; Dec 2025 – Present
+- Architecting and merging critical patches for autonomous agent workflows
+- Resolved severe edge cases in tool-use loops where agents entered infinite execution cycles
+- Improved reliability of LLM-driven tool interactions for the global developer community
+
+**[YouVersion](https://www.youversion.com/)** — SDK Contributor &nbsp;|&nbsp; Jan 2026 – Present
+- Building a custom **Next.js** test app to stress-test and validate **React** and **React Native SDK** components
+- Ensuring robustness of ministry tools used by millions worldwide
+
+---
+
+### 🗝️ Projects
+
+<details>
+<summary><b>makemyzume.com</b> — AI Resume Optimization Platform &nbsp;|&nbsp; Co-Founder</summary>
+<br/>
+
+AI-powered platform that reduces resume customization from **30 minutes to under 5 minutes**.
+
+- Engineered a backend using **Generative AI** and **Vector Search** (RAG) to analyze job descriptions against user data
+- Built a scalable **Node.js/TypeScript** API with edge caching for sub-second retrieval latencies
+- Implemented secure PII parsing pipelines for data privacy compliance
+- Integrated **Stripe** payment processing, serving **500+ optimizations monthly**
+
+**Stack:** `Next.js` `TypeScript` `Node.js` `Gemini AI` `Vector DB` `Cloudflare` `Digital Ocean` `Stripe`
+
+</details>
+
+<details>
+<summary><b>UNT Cafeteria App</b> — Real-Time Food Ordering System</summary>
+<br/>
+
+Mobile ordering system handling concurrent campus dining transactions.
+
+- Built real-time order orchestration with **WebSockets** (Received → Preparing → Ready)
+- Designed a normalized **SQL database schema** for inventory tracking and purchase history with zero data inconsistency
+- Created a responsive mobile UI with **React** for streamlined checkout
+
+**Stack:** `React Native` `Node.js` `MongoDB` `WebSocket` `Stripe` `SQL`
+
+</details>
+
+<details>
+<summary><b>FinGPT</b> — AI Financial Assistant</summary>
+<br/>
+
+- Integrated **OpenAI GPT-4** for real-time stock and crypto market insights
+- Built interactive data visualizations with **Chart.js** and **Pandas**
+
+**Stack:** `React` `Node.js` `OpenAI API` `Pandas` `Chart.js`
+
+</details>
+
+<details>
+<summary><b>eazyShop</b> — E-Commerce Platform</summary>
+<br/>
+
+- JWT authentication system with **PayPal** payment integration
+- Redux-powered state management for full purchase workflow
+
+**Stack:** `React` `Node.js` `Redux Toolkit` `MongoDB` `PayPal API`
+
+</details>
+
+---
+
+### 🖤 Tech Stack
+
+<div align="center">
+
+#### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=flat-square&logo=typescript&logoColor=c4b5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=flat-square&logo=javascript&logoColor=c4b5fd)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=flat-square&logo=python&logoColor=c4b5fd)
+![Java](https://img.shields.io/badge/Java-0d0d0d?style=flat-square&logo=openjdk&logoColor=c4b5fd)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=c4b5fd)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=flat-square&logo=html5&logoColor=c4b5fd)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=flat-square&logo=css3&logoColor=c4b5fd)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-0d0d0d?style=flat-square&logo=react&logoColor=c4b5fd)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=c4b5fd)
+![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=c4b5fd)
+![Redux](https://img.shields.io/badge/Redux-0d0d0d?style=flat-square&logo=redux&logoColor=c4b5fd)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=flat-square&logo=tailwindcss&logoColor=c4b5fd)
+
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=flat-square&logo=nodedotjs&logoColor=c4b5fd)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=flat-square&logo=express&logoColor=c4b5fd)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d0d0d?style=flat-square&logo=graphql&logoColor=c4b5fd)
+![WebSocket](https://img.shields.io/badge/WebSocket-0d0d0d?style=flat-square&logo=socketdotio&logoColor=c4b5fd)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=flat-square&logo=firebase&logoColor=c4b5fd)
+
+#### AI & GenAI
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=flat-square&logo=chainlink&logoColor=c4b5fd)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=flat-square&logo=openai&logoColor=c4b5fd)
+![Gemini](https://img.shields.io/badge/Gemini_AI-0d0d0d?style=flat-square&logo=google&logoColor=c4b5fd)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-0d0d0d?style=flat-square&logo=databricks&logoColor=c4b5fd)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d0d0d?style=flat-square&logo=pinecone&logoColor=c4b5fd)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0d0d0d?style=flat-square&logo=chroma&logoColor=c4b5fd)
+
+#### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-0d0d0d?style=flat-square&logo=amazonaws&logoColor=c4b5fd)
+![GCP](https://img.shields.io/badge/GCP-0d0d0d?style=flat-square&logo=googlecloud&logoColor=c4b5fd)
+![Azure](https://img.shields.io/badge/Azure-0d0d0d?style=flat-square&logo=microsoftazure&logoColor=c4b5fd)
+![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=flat-square&logo=docker&logoColor=c4b5fd)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=flat-square&logo=kubernetes&logoColor=c4b5fd)
+![Terraform](https://img.shields.io/badge/Terraform-0d0d0d?style=flat-square&logo=terraform&logoColor=c4b5fd)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=flat-square&logo=githubactions&logoColor=c4b5fd)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=flat-square&logo=cloudflare&logoColor=c4b5fd)
+
+#### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=flat-square&logo=postgresql&logoColor=c4b5fd)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=flat-square&logo=mongodb&logoColor=c4b5fd)
+![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=flat-square&logo=mysql&logoColor=c4b5fd)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-0d0d0d?style=flat-square&logo=amazondynamodb&logoColor=c4b5fd)
+![Redis](https://img.shields.io/badge/Redis-0d0d0d?style=flat-square&logo=redis&logoColor=c4b5fd)
+
+#### Monitoring & Payments
+![Datadog](https://img.shields.io/badge/Datadog-0d0d0d?style=flat-square&logo=datadog&logoColor=c4b5fd)
+![Splunk](https://img.shields.io/badge/Splunk-0d0d0d?style=flat-square&logo=splunk&logoColor=c4b5fd)
+![Stripe](https://img.shields.io/badge/Stripe-0d0d0d?style=flat-square&logo=stripe&logoColor=c4b5fd)
+![PayPal](https://img.shields.io/badge/PayPal-0d0d0d?style=flat-square&logo=paypal&logoColor=c4b5fd)
+
+</div>
+
+---
+
+### 🏴 Certifications & Awards
+
+**AWS Certified Cloud Practitioner** (2024)
+
+**3rd Place** — GradInnoHack Hackathon, UNT (2025)
+Led a 4-person team to architect a real-time multilingual airport navigation system in 24 hours.
+
+**Graduate Teaching Assistant** — Computer Networks (CS-3530), UNT
+Mentoring 80+ students in network protocols and cloud system design.
+
+---
+
+### ⚗️ Currently
+
+```yaml
+status: "Open to full-time opportunities (May 2026 graduation)"
+location: "Dallas, Texas — open to relocation"
+targets:
+  - Software Engineer (Full-Stack / Backend)
+  - AI/ML Engineer (GenAI, RAG, LLM systems)
+  - Cloud / Platform Engineer
+interests:
+  - Shipping scalable systems that serve thousands
+  - Integrating GenAI into production applications
+  - Performance optimization and cost reduction
+```
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeljohn007/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1a1a2e?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://joeljohn159.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/-Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=c4b5fd)](mailto:joeljohn7619@gmail.com)
+
+<br/>
+
+*"Write clean code. Ship fast. Optimize relentlessly."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:1a0a2e,100:0d0d0d&height=100&section=footer" width="100%" />
 
 </div>
