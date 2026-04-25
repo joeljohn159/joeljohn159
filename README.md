@@ -201,6 +201,29 @@ interests:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <picture>
   <img src="./assets/header.svg" width="100%" alt="Joel John — Software Engineer, GenAI, Cloud Systems" />
 </picture>
@@ -215,7 +238,9 @@ interests:
 <br/>
 
 <picture>
-  <img src="./assets/metrics.svg" width="100%" alt="-250ms API latency · +40% deploy speed · 99.9% uptime · 500+ users/month" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/metrics-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/metrics-light.svg" />
+  <img src="./assets/metrics-light.svg" width="100%" alt="-250ms API latency · +40% deploy speed · 99.9% uptime · 500+ users/month" />
 </picture>
 
 <br/>
@@ -227,7 +252,7 @@ Product-focused software engineer with 2+ years building scalable full-stack app
 
 Currently finishing my **MS in Computer Science at UNT** (3.67 GPA, graduating May 2026). Active open-source contributor to **LangChain** and **YouVersion**. Co-founder of [makemyzume.com](https://www.makemyzume.com/), an AI resume optimizer serving 500+ users monthly.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ## Experience
 
@@ -241,7 +266,7 @@ Built the authentication and messaging backend serving 200+ daily active users o
 
 Led cloud migration of distributed financial modules (SOC2/FinTech compliant). Designed REST APIs serving 4 global teams, reducing service latency by **25%**. Built **40+ real-time monitoring dashboards** with Splunk and Datadog, cutting outage detection by **60%** and maintaining **99.9% uptime**. Developed React-based internal automation tools that improved team efficiency by **30%**.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ## Open Source
 
@@ -252,7 +277,7 @@ Led cloud migration of distributed financial modules (SOC2/FinTech compliant). D
 **YouVersion** &nbsp;·&nbsp; SDK Contributor &nbsp;·&nbsp; Jan 2026 – Present
 <br/>Building a Next.js test harness to stress-test and validate React and React Native SDK components for ministry tools used by millions.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ## Projects
 
@@ -303,15 +328,17 @@ Full purchase workflow with JWT auth and PayPal payment integration. Redux-power
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ## Tech Stack
 
 <picture>
-  <img src="./assets/techstack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, LangChain, AWS, Docker, Kubernetes, PostgreSQL, MongoDB" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/techstack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/techstack-light.svg" />
+  <img src="./assets/techstack-light.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, LangChain, AWS, Docker, Kubernetes, PostgreSQL, MongoDB" />
 </picture>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+---
 
 ## Credentials
 
