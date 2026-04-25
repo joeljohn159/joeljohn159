@@ -201,135 +201,136 @@ interests:
 
 
 
+<picture>
+  <img src="./assets/header.svg" width="100%" alt="Joel John — Software Engineer, GenAI, Cloud Systems" />
+</picture>
 
-
-<div align="center">
-<br/>
-<br/>
-
-```
-     ╦╔═╗╔═╗╦    ╦╔═╗╦ ╦╔╗╔
-     ║║ ║║╣ ║    ║║ ║╠═╣║║║
-    ╚╝╚═╝╚═╝╩═╝  ╚╝╚═╝╩ ╩╝╚╝
-```
-
-### software engineer · genai · cloud systems
+<p align="center">
+  <a href="https://www.linkedin.com/in/joeljohn007/">linkedin</a> &nbsp;·&nbsp;
+  <a href="https://joeljohn159.github.io/portfolio/">portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.makemyzume.com/">makemyzume.com</a> &nbsp;·&nbsp;
+  <a href="mailto:joeljohn7619@gmail.com">joeljohn7619@gmail.com</a>
+</p>
 
 <br/>
 
-[resume](https://joeljohn159.github.io/portfolio/) · 
-[linkedin](https://www.linkedin.com/in/joeljohn007/) · 
-[makemyzume.com](https://www.makemyzume.com/) · 
-joeljohn7619@gmail.com
+<picture>
+  <img src="./assets/metrics.svg" width="100%" alt="-250ms API latency · +40% deploy speed · 99.9% uptime · 500+ users/month" />
+</picture>
 
 <br/>
 <br/>
-</div>
 
----
+## About
 
-I'm a software engineer who builds fast, reliable systems and ships them to production. Two years of full-stack and cloud work at scale, now finishing my **MS in Computer Science at UNT** (3.67 GPA, May 2026). I specialize in **TypeScript/Node.js backends**, **React frontends**, and **Generative AI** — particularly RAG pipelines and LLM integrations.
+Product-focused software engineer with 2+ years building scalable full-stack applications and cloud infrastructure. I work primarily in **TypeScript, Node.js, and React**, with a deep specialization in **Generative AI** — RAG pipelines, LLM integrations, and vector database architectures.
 
-I also contribute to open source. Currently patching agent workflows in **LangChain** and stress-testing SDKs for **YouVersion**.
+Currently finishing my **MS in Computer Science at UNT** (3.67 GPA, graduating May 2026). Active open-source contributor to **LangChain** and **YouVersion**. Co-founder of [makemyzume.com](https://www.makemyzume.com/), an AI resume optimizer serving 500+ users monthly.
 
-Right now I'm building [makemyzume.com](https://www.makemyzume.com/) — an AI resume optimizer that cuts customization time from 30 minutes to under 5. It serves 500+ users monthly.
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
+## Experience
 
-### where i've worked
+### Nest Friends &nbsp;→&nbsp; Software Engineer
+`Aug 2025 – Nov 2025` · Wilmington, DE
 
-**Nest Friends** · Software Engineer · Aug–Nov 2025
-> Built the auth and messaging backend on TypeScript + AWS Lambda for 200+ daily users. Reduced API latency by 250ms. Cut deploy time 40% with GitHub Actions CI/CD. Retention went up 25%.
+Built the authentication and messaging backend serving 200+ daily active users on **TypeScript + AWS Lambda**. Reduced API response latency by **250ms** through query refactoring and DynamoDB indexing. Cut deployment lead time by **40%** with GitHub Actions CI/CD automation. Partnered with Product to ship security-by-design features that drove **25% higher user retention**.
 
-**DXC Technology** · Software Engineer · Jan 2023–Jul 2024
-> Enterprise financial systems. Migrated on-prem modules to cloud (SOC2 compliant). Built 40+ Splunk/Datadog dashboards, cut outage detection 60%, held 99.9% uptime. Designed REST APIs serving 4 global teams.
+### DXC Technology &nbsp;→&nbsp; Software Engineer
+`Jan 2023 – Jul 2024` · Hyderabad, India
 
----
+Led cloud migration of distributed financial modules (SOC2/FinTech compliant). Designed REST APIs serving 4 global teams, reducing service latency by **25%**. Built **40+ real-time monitoring dashboards** with Splunk and Datadog, cutting outage detection by **60%** and maintaining **99.9% uptime**. Developed React-based internal automation tools that improved team efficiency by **30%**.
 
-### open source
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**LangChain** — core contributor since Dec 2025
-Fixing agent tool-use loops that caused infinite execution cycles. Merging patches for autonomous workflows.
-→ [github.com/langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+## Open Source
 
-**YouVersion** — SDK contributor since Jan 2026
-Building a Next.js test harness to validate React and React Native SDK components.
+**LangChain** &nbsp;·&nbsp; Core Contributor &nbsp;·&nbsp; Dec 2025 – Present
+<br/>Fixing agent tool-use loops that caused infinite execution cycles. Merging critical patches for autonomous workflows used by thousands of developers worldwide.
+<br/>[→ github.com/langchain-ai/langchain](https://github.com/langchain-ai/langchain)
 
----
+**YouVersion** &nbsp;·&nbsp; SDK Contributor &nbsp;·&nbsp; Jan 2026 – Present
+<br/>Building a Next.js test harness to stress-test and validate React and React Native SDK components for ministry tools used by millions.
 
-### things i've built
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**makemyzume.com**
-AI resume optimizer. RAG + Vector Search backend, Stripe billing, edge-cached API, 500+ monthly users.
-`next.js · typescript · gemini ai · vector db · cloudflare`
+### [makemyzume.com](https://www.makemyzume.com/)
+**AI Resume Optimizer** · Co-Founder
+
+RAG + Vector Search backend that reduces resume customization from 30 min to under 5. Stripe billing, edge-cached API, 500+ monthly users.
+
+`next.js` `typescript` `gemini ai` `vector db` `cloudflare` `stripe`
 
 </td>
 <td width="50%" valign="top">
 
-**UNT Cafeteria App**
-Real-time campus food ordering. WebSocket order tracking, SQL schema for inventory, React Native mobile UI.
-`react native · node.js · mongodb · websocket · stripe`
+### UNT Cafeteria App
+**Real-Time Ordering System**
+
+WebSocket-based order orchestration for campus dining. SQL schema for inventory tracking with zero data inconsistency. React Native mobile UI.
+
+`react native` `node.js` `mongodb` `websocket` `stripe`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**FinGPT**
-AI financial assistant. GPT-4 for market insights, interactive Chart.js visualizations, real-time stock data.
-`react · node.js · openai api · pandas`
+### FinGPT
+**AI Financial Assistant**
+
+GPT-4 integration for real-time stock and crypto market insights. Interactive Chart.js data visualizations.
+
+`react` `node.js` `openai api` `pandas` `chart.js`
 
 </td>
 <td width="50%" valign="top">
 
-**eazyShop**
-Full e-commerce platform. JWT auth, PayPal payments, Redux state management.
-`react · node.js · redux toolkit · mongodb`
+### eazyShop
+**E-Commerce Platform**
+
+Full purchase workflow with JWT auth and PayPal payment integration. Redux-powered state management.
+
+`react` `node.js` `redux toolkit` `mongodb` `paypal api`
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### what i work with
+## Tech Stack
 
-```
-languages        typescript · javascript · python · java · sql
-frontend         react · next.js · react native · redux · tailwind
-backend          node.js · express · graphql · websocket · firebase
-ai/genai         langchain · openai · gemini · rag · pinecone · chromadb
-cloud            aws (lambda, sqs, ec2, s3) · gcp · azure · docker · kubernetes · terraform
-databases        postgresql · mongodb · mysql · dynamodb · redis
-devops           github actions · datadog · splunk · cloudflare
-```
+<picture>
+  <img src="./assets/techstack.svg" width="100%" alt="Tech stack: TypeScript, JavaScript, Python, Java, React, Next.js, Node.js, LangChain, AWS, Docker, Kubernetes, PostgreSQL, MongoDB" />
+</picture>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-### etc
+## Credentials
 
-- **AWS Certified Cloud Practitioner** (2024)
-- **3rd place, GradInnoHack** — UNT hackathon, 2025. Led a 4-person team. Built a multilingual airport navigation system in 24 hours.
-- **Graduate TA, Computer Networks** — Mentoring 80+ students in network protocols and system design.
+**AWS Certified Cloud Practitioner** · 2024
 
----
+**3rd Place — GradInnoHack** · UNT Hackathon, 2025
+<br/>Led a 4-person team to architect a real-time multilingual airport navigation system in 24 hours.
 
-<div align="center">
-<br/>
-
-*open to full-time roles · software engineer · ai/ml engineer · cloud engineer*
-
-*dallas, texas · open to relocation*
+**Graduate Teaching Assistant** · Computer Networks (CS-3530), UNT
+<br/>Mentoring 80+ students in network protocols and cloud system design.
 
 <br/>
 
-```
-joeljohn7619@gmail.com
-```
+---
 
-<br/>
-</div>
+<p align="center">
+  <i>Open to full-time roles — Software Engineer · AI/ML Engineer · Cloud Engineer</i>
+  <br/>
+  <i>Dallas, Texas · Open to relocation</i>
+  <br/><br/>
+  <a href="mailto:joeljohn7619@gmail.com">joeljohn7619@gmail.com</a>
+</p>
