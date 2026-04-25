@@ -2,6 +2,7 @@
 
 # Joel John
 
+
 ### Full-Stack Engineer | AI/ML | Cloud Architecture
 
 Building scalable systems • Optimizing performance • Solving complex problems
