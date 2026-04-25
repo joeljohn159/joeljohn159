@@ -1,4 +1,4 @@
-<!-- <div align="center">
+<div align="center">
 
 # Joel John
 
@@ -198,7 +198,7 @@ interests:
 
 **"Write clean code. Ship fast. Optimize relentlessly."**
 
-</div> -->
+</div> 
 
 
 
