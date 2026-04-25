@@ -266,7 +266,7 @@ Product-focused software engineer with 2+ years building scalable full-stack app
 
 Currently finishing my **MS in Computer Science at UNT** (3.67 GPA, graduating May 2026). Active open-source contributor to **LangChain** and **YouVersion**.
 
-Co-founder of [makemyzume.com](https://www.makemyzume.com/) — an AI resume optimizer serving 500+ users monthly.
+Co-founder of [makemyzume.com](https://www.makemyzume.com/) — an AI resume optimizer.
 
 <br clear="both"/>
 
