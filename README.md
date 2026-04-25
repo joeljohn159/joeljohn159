@@ -219,7 +219,7 @@ interests:
 
 
 
-
+· [Portfolio](https://joeljohn159.github.io/portfolio/) 
 
 
  -->
@@ -241,7 +241,7 @@ interests:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+GenAI+%2B+RAG+Systems;Full-Stack+%7C+TypeScript+%7C+Node.js+%7C+React;Building+makemyzume.com+%E2%80%94+500%2B+users%2Fmo;LangChain+Open+Source+Contributor)](https://git.io/typing-svg)
 
-[LinkedIn](https://www.linkedin.com/in/joeljohn007/) · [Portfolio](https://joeljohn159.github.io/portfolio/) · [makemyzume.com](https://www.makemyzume.com/) · [joeljohn7619@gmail.com](mailto:joeljohn7619@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/joeljohn007/) · [makemyzume.com](https://www.makemyzume.com/) · [joeljohn7619@gmail.com](mailto:joeljohn7619@gmail.com)
 
 <br/>
 
