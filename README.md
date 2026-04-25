@@ -293,7 +293,7 @@ Co-founder of [makemyzume.com](https://www.makemyzume.com/) — an AI resume opt
 | Project | Role | What I Do |
 |---------|------|-----------|
 | [**LangChain**](https://github.com/langchain-ai/langchain) | Core Contributor · Dec 2025 – Present | Fixing agent tool-use loops causing infinite execution. Merging patches for autonomous workflows. |
-| **YouVersion** | SDK Contributor · Jan 2026 – Present | Building a Next.js test harness to validate React and React Native SDK components. |
+| [**YouVersion**](https://github.com/youversion) | SDK Contributor · Jan 2026 – Present | Building a Next.js test harness to validate React and React Native SDK components. |
 
 ---
 
