@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Joel John
 
@@ -222,4 +222,178 @@ interests:
 
 
 
+ -->
 
+
+
+
+
+
+
+
+
+
+
+
+ <div align="center">
+
+# Joel John
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%7C+GenAI+%2B+RAG+Systems;Full-Stack+%7C+TypeScript+%7C+Node.js+%7C+React;Building+makemyzume.com+%E2%80%94+500%2B+users%2Fmo;LangChain+Open+Source+Contributor)](https://git.io/typing-svg)
+
+[LinkedIn](https://www.linkedin.com/in/joeljohn007/) · [Portfolio](https://joeljohn159.github.io/portfolio/) · [makemyzume.com](https://www.makemyzume.com/) · [joeljohn7619@gmail.com](mailto:joeljohn7619@gmail.com)
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>-250ms</h3><sub>API Latency</sub></td>
+<td align="center" width="25%"><h3>+40%</h3><sub>Deploy Speed</sub></td>
+<td align="center" width="25%"><h3>99.9%</h3><sub>Uptime</sub></td>
+<td align="center" width="25%"><h3>500+</h3><sub>Users / Month</sub></td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## About
+
+Product-focused software engineer with 2+ years building scalable full-stack applications and cloud infrastructure. I work primarily in **TypeScript, Node.js, and React**, with a deep specialization in **Generative AI** — RAG pipelines, LLM integrations, and vector database architectures.
+
+Currently finishing my **MS in Computer Science at UNT** (3.67 GPA, graduating May 2026). Active open-source contributor to **LangChain** and **YouVersion**.
+
+Co-founder of [makemyzume.com](https://www.makemyzume.com/) — an AI resume optimizer serving 500+ users monthly.
+
+<br clear="both"/>
+
+---
+
+## Experience
+
+<img align="right" alt="Dev" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+**Nest Friends** · Software Engineer · `Aug 2025 – Nov 2025`
+
+> Built auth and messaging backend on TypeScript + AWS Lambda for 200+ daily users. Reduced API latency by 250ms. Cut deploy time 40% with GitHub Actions CI/CD. Drove 25% higher user retention.
+
+**DXC Technology** · Software Engineer · `Jan 2023 – Jul 2024`
+
+> Led cloud migration of financial modules (SOC2 compliant). Built 40+ Splunk/Datadog dashboards, cut outage detection 60%, held 99.9% uptime. Designed REST APIs serving 4 global teams.
+
+<br clear="both"/>
+
+---
+
+## Open Source
+
+| Project | Role | What I Do |
+|---------|------|-----------|
+| [**LangChain**](https://github.com/langchain-ai/langchain) | Core Contributor · Dec 2025 – Present | Fixing agent tool-use loops causing infinite execution. Merging patches for autonomous workflows. |
+| **YouVersion** | SDK Contributor · Jan 2026 – Present | Building a Next.js test harness to validate React and React Native SDK components. |
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [makemyzume.com](https://www.makemyzume.com/)
+**AI Resume Optimizer** · Co-Founder
+
+RAG + Vector Search backend that cuts resume customization from 30 min to under 5. Stripe billing, edge-cached API, 500+ monthly users.
+
+`next.js` `typescript` `gemini ai` `vector db` `cloudflare` `stripe`
+
+</td>
+<td width="50%" valign="top">
+
+### UNT Cafeteria App
+**Real-Time Ordering System**
+
+WebSocket-based order orchestration for campus dining. SQL schema for inventory tracking. React Native mobile UI.
+
+`react native` `node.js` `mongodb` `websocket` `stripe`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### FinGPT
+**AI Financial Assistant**
+
+GPT-4 for real-time stock and crypto insights. Interactive Chart.js data visualizations.
+
+`react` `node.js` `openai api` `pandas` `chart.js`
+
+</td>
+<td width="50%" valign="top">
+
+### eazyShop
+**E-Commerce Platform**
+
+Full purchase workflow with JWT auth and PayPal payments. Redux state management.
+
+`react` `node.js` `redux toolkit` `mongodb` `paypal api`
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4b72-9e53-ba0b2d31dc9d.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1adb86aa.gif" width="80">
+
+</div>
+
+<br/>
+
+| | |
+|---|---|
+| **Languages** | `TypeScript` `JavaScript` `Python` `Java` `SQL` |
+| **Frontend** | `React` `Next.js` `React Native` `Redux` `Tailwind` |
+| **Backend** | `Node.js` `Express` `GraphQL` `WebSocket` `Firebase` |
+| **AI / GenAI** | `LangChain` `OpenAI` `Gemini` `RAG` `Pinecone` `ChromaDB` |
+| **Cloud** | `AWS` `GCP` `Azure` `Docker` `Kubernetes` `Terraform` |
+| **DevOps** | `GitHub Actions` `Datadog` `Splunk` `Cloudflare` |
+| **Databases** | `PostgreSQL` `MongoDB` `MySQL` `DynamoDB` `Redis` |
+| **Payments** | `Stripe` `PayPal` |
+
+---
+
+## Credentials
+
+**AWS Certified Cloud Practitioner** · 2024
+
+**3rd Place — GradInnoHack** · UNT Hackathon, 2025 — Led a 4-person team to build a multilingual airport navigation system in 24 hours.
+
+**Graduate Teaching Assistant** · Computer Networks (CS-3530), UNT — Mentoring 80+ students in network protocols and system design.
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+*Open to full-time roles · Software Engineer · AI/ML Engineer · Cloud Engineer*
+
+*Dallas, Texas · Open to relocation*
+
+[joeljohn7619@gmail.com](mailto:joeljohn7619@gmail.com)
+
+</div>
