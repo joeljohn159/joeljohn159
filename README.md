@@ -276,6 +276,8 @@ Co-founder of [makemyzume.com](https://www.makemyzume.com/) — an AI resume opt
 
 <img align="right" alt="Dev" width="280" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+**YouVersion** · Software Engineer Intern · `May 2026 – Present`
+
 **Nest Friends** · Software Engineer · `Aug 2025 – Nov 2025`
 
 > Built auth and messaging backend on TypeScript + AWS Lambda for 200+ daily users. Reduced API latency by 250ms. Cut deploy time 40% with GitHub Actions CI/CD. Drove 25% higher user retention.
